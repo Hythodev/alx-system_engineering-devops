@@ -5,3 +5,4 @@ am_betty - changing user to betty
 4-empty - create empty file hello
 5-execute - give owner execute permission
 6-multiple_permissions - multiple permissins
+7-everybody - all permissions
