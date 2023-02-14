@@ -1,2 +1,2 @@
 #!/bin/bash
-echo sed '$string' | tr A Z | tr c e
+echo '$string' | sed -r tr A Z | tr c e
